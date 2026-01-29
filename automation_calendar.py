@@ -27,7 +27,7 @@ from prefect import flow
 # =========================
 INPUT_XLSX = "earnings_calendar.xlsx"
 SHEET_NAME = "NextPerTicker"
-OUTPUT_DIR = Path(os.path.expanduser(r"Q:\Bloomberg Data\calendario"))
+OUTPUT_DIR = Path(os.path.expanduser(r"Q:\Bloomberg Data\calendar\docs"))
 OUTPUT_FILENAME = "earnings_outlook.ics"
 
 # Duração do evento no calendário (em minutos)

@@ -2,995 +2,995 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Oil & Gas
-DESCRIPTION:Ticker: OPCT\nData: 2026-03-04\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Oil & Gas\nAnalista: Paulo
-DTEND:20260303T213000Z
-DTSTART:20260303T210000Z
-SUMMARY:[OPCT] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:c818482f-014a-5946-a063-ba8cb0891f51
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Bancos
-DESCRIPTION:Ticker: BBAS\nData: 2026-03-16\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Bancos\nAnalista: Arthur
-DTEND:20260315T213000Z
-DTSTART:20260315T210000Z
-SUMMARY:[BBAS] - Divulgação de 2025:A (Pós-mercado)
-UID:c21644c4-f33f-54e9-9ebc-fab47e8e5d55
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Rodovias + Logistics Infrastructure
-DESCRIPTION:Ticker: ECOR\nData: 2026-02-09\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Rodovias + Logistics Infrastructure\nAnalista: Paulo
-DTEND:20260208T213000Z
-DTSTART:20260208T210000Z
-SUMMARY:[ECOR] - Divulgação de 2025:A (Pós-mercado)
-UID:0e5961ed-ad84-5789-9650-754bb37131cb
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Rentals
-DESCRIPTION:Ticker: MOVI\nData: 2026-03-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Rentals\nAnalista: Paulo
-DTEND:20260304T213000Z
-DTSTART:20260304T210000Z
-SUMMARY:[MOVI] - Divulgação de 2025:A (Pós-mercado)
-UID:fee676fc-da36-5ce1-8533-4e88fadbcf23
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: LIGT\nData: 2026-03-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260325T213000Z
-DTSTART:20260325T210000Z
-SUMMARY:[LIGT] - Divulgação de 2025:A (Pós-mercado)
-UID:9cad6596-10f7-50b2-b586-e838d01b9adb
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:TMT
-DESCRIPTION:Ticker: VIVT\nData: 2026-02-11\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: TMT\nAnalista: Paulo
-DTEND:20260210T213000Z
-DTSTART:20260210T210000Z
-SUMMARY:[VIVT] - Divulgação de 2025:A (Pós-mercado)
-UID:7da328fe-380a-519e-9763-98c4ac4a6bd0
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Consumo - Miguel
-DESCRIPTION:Ticker: ABEV\nData: 2026-02-12\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Consumo - Miguel\nAnalista: Arthur
-DTEND:20260211T213000Z
-DTSTART:20260211T210000Z
-SUMMARY:[ABEV] - Divulgação de 2025:A (Pós-mercado)
-UID:dab75dca-2d10-5617-a365-0750ae2639b1
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Properties
-DESCRIPTION:Ticker: LOGG\nData: 2026-02-11\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Properties\nAnalista: Arthur
-DTEND:20260210T213000Z
-DTSTART:20260210T210000Z
-SUMMARY:[LOGG] - Divulgação de 2025:A (Pós-mercado)
-UID:2b915d1f-dcb8-518d-9eec-06194942adc1
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Bancos
-DESCRIPTION:Ticker: BBDC\nData: 2026-02-04\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Bancos\nAnalista: Arthur
-DTEND:20260204T113000Z
-DTSTART:20260204T110000Z
-SUMMARY:[BBDC] - Divulgação de 2025:A (Pré-mercado)
-UID:d7c4069c-5cc1-570d-83d6-cd67195eeea9
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Homebuilders
-DESCRIPTION:Ticker: LAVV\nData: 2026-03-11\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Homebuilders\nAnalista: Arthur
-DTEND:20260310T213000Z
-DTSTART:20260310T210000Z
-SUMMARY:[LAVV] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:966ce20c-370e-5a4b-a6b3-875df961a847
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Healthcare
-DESCRIPTION:Ticker: FLRY\nData: 2026-03-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Healthcare\nAnalista: Arthur
-DTEND:20260304T213000Z
-DTSTART:20260304T210000Z
-SUMMARY:[FLRY] - Divulgação de 2025:A (Pós-mercado)
-UID:61e2daee-df10-56af-99f0-5cbede65b05c
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Oil & Gas
-DESCRIPTION:Ticker: RECV\nData: 2026-03-18\nHorário: Notificação Paulo (08:00)\nPeríodo: 2025:A\nSetor: Oil & Gas\nAnalista: Paulo
-DTEND:20260318T113000Z
-DTSTART:20260318T110000Z
-SUMMARY:[RECV] - Divulgação de 2025:A (Notificação Paulo (08:00))
-UID:e406a03e-0277-53a5-81da-cda009c61799
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: ALUP\nData: 2026-03-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260304T213000Z
-DTSTART:20260304T210000Z
-SUMMARY:[ALUP] - Divulgação de 2025:A (Pós-mercado)
-UID:53d247d9-9406-5256-b811-36e0d99e2355
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Oil & Gas
-DESCRIPTION:Ticker: CSAN\nData: 2026-03-10\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Oil & Gas\nAnalista: Paulo
-DTEND:20260309T213000Z
-DTSTART:20260309T210000Z
-SUMMARY:[CSAN] - Divulgação de 2025:A (Pós-mercado)
-UID:e3633b76-7c27-5ddc-a187-00c0c6f71d34
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Bancos
-DESCRIPTION:Ticker: ITSA\nData: 2026-02-06\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Bancos\nAnalista: Arthur
-DTEND:20260206T113000Z
-DTSTART:20260206T110000Z
-SUMMARY:[ITSA] - Divulgação de 2025:A (Pré-mercado)
-UID:ec688d5f-7abd-52d5-a456-d510435257f4
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: ISAE\nData: 2026-03-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260304T213000Z
-DTSTART:20260304T210000Z
-SUMMARY:[ISAE] - Divulgação de 2025:A (Pós-mercado)
-UID:00cf51e3-6629-5e5b-ab61-aec93a180227
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: ENEV\nData: 2026-03-17\nHorário: 23:00\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260318T023000Z
-DTSTART:20260318T020000Z
-SUMMARY:[ENEV] - Divulgação de 2025:A (23:00)
-UID:cd77671d-bdc4-5135-ab56-9ae58abc57f1
+CATEGORIES:Industrials + Gestão de Resíduos
+DESCRIPTION:Ticker: WEGE\nData: 2026-02-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos
+DTEND:20260226T113000Z
+DTSTART:20260226T110000Z
+SUMMARY:[WEGE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:4c003567-1034-55f7-9338-899fd8ef7ffe
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Metals & Mining
-DESCRIPTION:Ticker: VALE\nData: 2026-03-12\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Metals & Mining\nAnalista: Paulo
-DTEND:20260311T213000Z
-DTSTART:20260311T210000Z
-SUMMARY:[VALE] - Divulgação de 2025:A (Pós-mercado)
-UID:619d2e1d-b2fe-5bc4-86c9-d70710416096
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: CPLE\nData: 2026-03-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260325T213000Z
-DTSTART:20260325T210000Z
-SUMMARY:[CPLE] - Divulgação de 2025:A (Pós-mercado)
-UID:dafa5d92-c8be-5c2f-a1c8-821b46ca4c2a
+DESCRIPTION:Ticker: CBAV\nData: 2026-03-04\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Metals & Mining
+DTEND:20260304T113000Z
+DTSTART:20260304T110000Z
+SUMMARY:[CBAV] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:bd116974-e2d2-5897-ba21-443cbf4c4de0
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Bancos
-DESCRIPTION:Ticker: ABCB\nData: 2026-02-04\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Bancos\nAnalista: Arthur
-DTEND:20260203T213000Z
-DTSTART:20260203T210000Z
-SUMMARY:[ABCB] - Divulgação de 2025:A (Pós-mercado)
-UID:1c30bd96-8411-5a02-a2a6-ac785875167c
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Oil & Gas
-DESCRIPTION:Ticker: VBBR\nData: 2026-03-11\nHorário: Notificação Paulo (08:00)\nPeríodo: 2025:A\nSetor: Oil & Gas\nAnalista: Paulo
-DTEND:20260311T113000Z
-DTSTART:20260311T110000Z
-SUMMARY:[VBBR] - Divulgação de 2025:A (Notificação Paulo (08:00))
-UID:2314f2d6-d83a-5f7f-ac98-3b672537132d
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Metals & Mining
-DESCRIPTION:Ticker: GGBR\nData: 2026-03-27\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Metals & Mining\nAnalista: Paulo
-DTEND:20260327T113000Z
-DTSTART:20260327T110000Z
-SUMMARY:[GGBR] - Divulgação de 2025:A (Pré-mercado)
-UID:6602e8aa-a89e-5915-9c92-b2baf000a186
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Retail
-DESCRIPTION:Ticker: CVCB\nData: 2026-03-11\nHorário: Notificação Arthur (07:00)\nPeríodo: 2025:A\nSetor: Retail\nAnalista: Arthur
-DTEND:20260311T103000Z
-DTSTART:20260311T100000Z
-SUMMARY:[CVCB] - Divulgação de 2025:A (Notificação Arthur (07:00))
-UID:65531ede-8267-59fa-ad5a-7b803b89aea6
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: SBSP\nData: 2026-02-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260225T213000Z
-DTSTART:20260225T210000Z
-SUMMARY:[SBSP] - Divulgação de 2025:A (Pós-mercado)
-UID:004f0416-4c7b-52f2-99fa-cc11d066dd38
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Retail
-DESCRIPTION:Ticker: SMFT\nData: 2026-03-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Retail\nAnalista: Arthur
-DTEND:20260304T213000Z
-DTSTART:20260304T210000Z
-SUMMARY:[SMFT] - Divulgação de 2025:A (Pós-mercado)
-UID:566c873c-29bf-513c-9a90-a0fa65e9e20a
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: CSMG\nData: 2026-02-25\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260224T213000Z
-DTSTART:20260224T210000Z
-SUMMARY:[CSMG] - Divulgação de 2025:A (Pós-mercado)
-UID:3354cdc6-0e33-5094-ab09-dbd7d90533ea
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Homebuilders
-DESCRIPTION:Ticker: DIRR\nData: 2026-03-09\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Homebuilders\nAnalista: Arthur
-DTEND:20260308T213000Z
-DTSTART:20260308T210000Z
-SUMMARY:[DIRR] - Divulgação de 2025:A (Pós-mercado)
-UID:bff982c9-266d-51e6-9e76-e2d421b5ecc5
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Bancos
-DESCRIPTION:Ticker: BRBI\nData: 2026-02-05\nHorário: Notificação Arthur (07:00)\nPeríodo: 2025:A\nSetor: Bancos\nAnalista: Arthur
-DTEND:20260205T103000Z
-DTSTART:20260205T100000Z
-SUMMARY:[BRBI] - Divulgação de 2025:A (Notificação Arthur (07:00))
-UID:59d90060-25ff-5211-b284-2880e8fd2a35
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Metals & Mining
-DESCRIPTION:Ticker: CMIN\nData: 2026-03-11\nHorário: Notificação Paulo (08:00)\nPeríodo: 2025:Q4\nSetor: Metals & Mining\nAnalista: Paulo
-DTEND:20260311T113000Z
-DTSTART:20260311T110000Z
-SUMMARY:[CMIN] - Divulgação de 2025:Q4 (Notificação Paulo (08:00))
-UID:17906df4-1b21-5bdb-92d4-94c7480d42ec
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Bancos
-DESCRIPTION:Ticker: SANB\nData: 2026-03-18\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Bancos\nAnalista: Arthur
-DTEND:20260317T213000Z
-DTSTART:20260317T210000Z
-SUMMARY:[SANB] - Divulgação de 2025:A (Pós-mercado)
-UID:15d5ac54-a08a-55b6-a3c7-80f7e150d839
+DESCRIPTION:Ticker: BPAC\nData: 2026-02-09\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Bancos
+DTEND:20260208T103000Z
+DTSTART:20260208T100000Z
+SUMMARY:[BPAC] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:11472773-a558-5bba-985c-0c7009a9e3bc
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Staples
-DESCRIPTION:Ticker: PGMN\nData: 2026-03-03\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Staples\nAnalista: Arthur
-DTEND:20260302T213000Z
-DTSTART:20260302T210000Z
-SUMMARY:[PGMN] - Divulgação de 2025:A (Pós-mercado)
-UID:e89aedbc-55d8-56d9-b4d5-f0e869df12b1
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: TAEE\nData: 2026-03-16\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260315T213000Z
-DTSTART:20260315T210000Z
-SUMMARY:[TAEE] - Divulgação de 2025:A (Pós-mercado)
-UID:3ecf7fde-5c9a-5de4-858b-49ff45a36df3
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Homebuilders
-DESCRIPTION:Ticker: MDNE\nData: 2026-03-11\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Homebuilders\nAnalista: Arthur
-DTEND:20260310T213000Z
-DTSTART:20260310T210000Z
-SUMMARY:[MDNE] - Divulgação de 2025:A (Pós-mercado)
-UID:bde50328-7dc8-5fd4-bf03-47f69aa2242b
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Pulp & Paper
-DESCRIPTION:Ticker: SUZB\nData: 2026-03-04\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Pulp & Paper\nAnalista: Paulo
-DTEND:20260303T213000Z
-DTSTART:20260303T210000Z
-SUMMARY:[SUZB] - Divulgação de 2025:A (Pós-mercado)
-UID:de9eaca4-07ca-51ac-b996-c5fe3aaa0369
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Staples
-DESCRIPTION:Ticker: MLAS\nData: 2026-03-25\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Staples\nAnalista: Arthur
-DTEND:20260324T213000Z
-DTSTART:20260324T210000Z
-SUMMARY:[MLAS] - Divulgação de 2025:A (Pós-mercado)
-UID:bc08e26c-c847-5f34-b861-551097a2494f
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Metals & Mining
-DESCRIPTION:Ticker: USIM\nData: 2026-02-23\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Metals & Mining\nAnalista: Paulo
-DTEND:20260222T213000Z
-DTSTART:20260222T210000Z
-SUMMARY:[USIM] - Divulgação de 2025:A (Pós-mercado)
-UID:240e6269-76f5-5df4-a34b-99eee6cb9ac1
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Retail
-DESCRIPTION:Ticker: CEAB\nData: 2026-03-12\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Retail\nAnalista: Arthur
-DTEND:20260311T213000Z
-DTSTART:20260311T210000Z
-SUMMARY:[CEAB] - Divulgação de 2025:A (Pós-mercado)
-UID:18647b5a-a01e-5171-8f7f-bbbeb8f7f1ad
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Rodovias + Logistics Infrastructure
-DESCRIPTION:Ticker: RAIL\nData: 2026-03-17\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Rodovias + Logistics Infrastructure\nAnalista: Paulo
-DTEND:20260316T213000Z
-DTSTART:20260316T210000Z
-SUMMARY:[RAIL] - Divulgação de 2025:A (Pós-mercado)
-UID:35a2258e-9f78-5dd2-a32a-265418960a52
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Bancos
-DESCRIPTION:Ticker: BRSR\nData: 2026-02-11\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Bancos\nAnalista: Arthur
-DTEND:20260210T213000Z
-DTSTART:20260210T210000Z
-SUMMARY:[BRSR] - Divulgação de 2025:A (Pós-mercado)
-UID:f5754e71-f49a-5910-bee4-d3d789917898
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Retail
-DESCRIPTION:Ticker: LREN\nData: 2026-02-11\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Retail\nAnalista: Arthur
-DTEND:20260210T213000Z
-DTSTART:20260210T210000Z
-SUMMARY:[LREN] - Divulgação de 2025:A (Pós-mercado)
-UID:0db2632a-85c3-5642-b9f7-68b2ca2a7035
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Consumo - Miguel
-DESCRIPTION:Ticker: ALPA\nData: 2026-02-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Consumo - Miguel\nAnalista: Arthur
-DTEND:20260225T213000Z
-DTSTART:20260225T210000Z
-SUMMARY:[ALPA] - Divulgação de 2025:A (Pós-mercado)
-UID:abf1f5c6-9fdf-5138-befa-2b1e6b4b40a9
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Rodovias + Logistics Infrastructure
-DESCRIPTION:Ticker: HBSA\nData: 2026-03-02\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Rodovias + Logistics Infrastructure\nAnalista: Paulo
-DTEND:20260301T213000Z
-DTSTART:20260301T210000Z
-SUMMARY:[HBSA] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:7118503d-2713-55f2-b066-7547cefc1228
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: ENGI\nData: 2026-02-25\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260225T113000Z
-DTSTART:20260225T110000Z
-SUMMARY:[ENGI] - Divulgação de 2025:A (Pré-mercado)
-UID:5437d6fd-7589-5072-8b2e-b8127540d3e3
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Consumo - Miguel
-DESCRIPTION:Ticker: PETZ\nData: 2026-03-18\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Consumo - Miguel\nAnalista: Arthur
-DTEND:20260317T213000Z
-DTSTART:20260317T210000Z
-SUMMARY:[PETZ] - Divulgação de 2025:A (Pós-mercado)
-UID:d502ba8e-a8ea-5e92-8f68-f6fa03574eef
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Financials Ex-Bancos
-DESCRIPTION:Ticker: CXSE\nData: 2026-03-11\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Financials Ex-Bancos\nAnalista: Arthur
-DTEND:20260310T213000Z
-DTSTART:20260310T210000Z
-SUMMARY:[CXSE] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:336dcb3f-0714-52a9-8976-a46cfa2fc76a
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Oil & Gas
-DESCRIPTION:Ticker: BRAV\nData: 2026-03-11\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Oil & Gas\nAnalista: Paulo
-DTEND:20260310T213000Z
-DTSTART:20260310T210000Z
-SUMMARY:[BRAV] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:dd84fce4-e2e8-5d61-8bf3-30dcc9405e91
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Staples
-DESCRIPTION:Ticker: RADL\nData: 2026-03-03\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Staples\nAnalista: Arthur
-DTEND:20260302T213000Z
-DTSTART:20260302T210000Z
-SUMMARY:[RADL] - Divulgação de 2025:A (Pós-mercado)
-UID:2f9e3862-3074-5366-ad5f-bc363d70120d
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: CPFE\nData: 2026-03-19\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260318T213000Z
-DTSTART:20260318T210000Z
-SUMMARY:[CPFE] - Divulgação de 2025:A (Pós-mercado)
-UID:4e415ecc-3c4d-5094-934a-890f44511fc6
+DESCRIPTION:Ticker: ASAI\nData: 2026-02-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Staples
+DTEND:20260211T103000Z
+DTSTART:20260211T100000Z
+SUMMARY:[ASAI] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:1c975f85-ec4a-56d2-ad2e-44ee13a9c9a5
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Industrials + Gestão de Resíduos
-DESCRIPTION:Ticker: EMBR\nData: 2026-02-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos\nAnalista: Paulo
-DTEND:20260225T213000Z
-DTSTART:20260225T210000Z
-SUMMARY:[EMBR] - Divulgação de 2025:A (Pós-mercado)
-UID:e746d4dd-3492-53f1-b729-a2eb25e7ea06
+DESCRIPTION:Ticker: TUPY\nData: 2026-03-04\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos
+DTEND:20260304T113000Z
+DTSTART:20260304T110000Z
+SUMMARY:[TUPY] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:4c248ac1-051a-5b8b-8c28-ebfa124a1281
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Staples
-DESCRIPTION:Ticker: GMAT\nData: 2026-02-24\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Staples\nAnalista: Arthur
-DTEND:20260223T213000Z
-DTSTART:20260223T210000Z
-SUMMARY:[GMAT] - Divulgação de 2025:A (Pós-mercado)
-UID:2ed3a106-d734-5079-a877-d5b0bc3e0e62
+CATEGORIES:Rodovias + Logistics Infrastructure
+DESCRIPTION:Ticker: HBSA\nData: 2026-03-02\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Rodovias + Logistics Infrastructure
+DTEND:20260302T113000Z
+DTSTART:20260302T110000Z
+SUMMARY:[HBSA] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:268da7f1-3af5-59a3-bc3d-ac8e9e461a24
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Financials Ex-Bancos
-DESCRIPTION:Ticker: PSSA\nData: 2026-02-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Financials Ex-Bancos\nAnalista: Arthur
-DTEND:20260225T213000Z
-DTSTART:20260225T210000Z
-SUMMARY:[PSSA] - Divulgação de 2025:A (Pós-mercado)
-UID:e9cd06d7-ee8b-526a-aaa8-32e5d9194527
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Bancos
-DESCRIPTION:Ticker: BPAC\nData: 2026-02-09\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Bancos\nAnalista: Arthur
+CATEGORIES:Rodovias + Logistics Infrastructure
+DESCRIPTION:Ticker: ECOR\nData: 2026-02-09\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Rodovias + Logistics Infrastructure
 DTEND:20260209T113000Z
 DTSTART:20260209T110000Z
-SUMMARY:[BPAC] - Divulgação de 2025:A (Pré-mercado)
-UID:2011f89c-db24-5e47-b771-a43056d765cb
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Healthcare
-DESCRIPTION:Ticker: ONCO\nData: 2026-03-30\nHorário: Notificação Arthur (07:00)\nPeríodo: 2025:A\nSetor: Healthcare\nAnalista: Arthur
-DTEND:20260330T103000Z
-DTSTART:20260330T100000Z
-SUMMARY:[ONCO] - Divulgação de 2025:A (Notificação Arthur (07:00))
-UID:0009225f-e7ad-5a1e-bfe5-dfcde2a38860
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Industrials + Gestão de Resíduos
-DESCRIPTION:Ticker: DXCO\nData: 2026-03-04\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos\nAnalista: Paulo
-DTEND:20260303T213000Z
-DTSTART:20260303T210000Z
-SUMMARY:[DXCO] - Divulgação de 2025:A (Pós-mercado)
-UID:82f4c3d8-57f0-5975-a363-fc4133a00061
+SUMMARY:[ECOR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:b7302a7e-1ad2-5cfa-a2f9-9d3cd3af2bb3
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Elétricas
-DESCRIPTION:Ticker: NEOE\nData: 2026-02-11\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260210T213000Z
-DTSTART:20260210T210000Z
-SUMMARY:[NEOE] - Divulgação de 2025:A (Pós-mercado)
-UID:8f9c248f-ccc0-5ef7-8101-6b621cd4c242
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Oil & Gas
-DESCRIPTION:Ticker: BRKM\nData: 2026-03-10\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Oil & Gas\nAnalista: Paulo
-DTEND:20260309T213000Z
-DTSTART:20260309T210000Z
-SUMMARY:[BRKM] - Divulgação de 2025:A (Pós-mercado)
-UID:cfc48a1f-71d5-5b0b-b940-19a76863eea1
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Properties
-DESCRIPTION:Ticker: MULT\nData: 2026-02-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Properties\nAnalista: Arthur
-DTEND:20260204T213000Z
-DTSTART:20260204T210000Z
-SUMMARY:[MULT] - Divulgação de 2025:A (Pós-mercado)
-UID:cecac6d5-794f-5c7f-abe4-d8762258632b
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Metals & Mining
-DESCRIPTION:Ticker: BRAP\nData: 2026-02-12\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Metals & Mining\nAnalista: Paulo
-DTEND:20260211T213000Z
-DTSTART:20260211T210000Z
-SUMMARY:[BRAP] - Divulgação de 2025:A (Pós-mercado)
-UID:1fad9017-339c-53f3-8543-2c978ad52a37
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Industrials + Gestão de Resíduos
-DESCRIPTION:Ticker: MYPK\nData: 2026-03-06\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos\nAnalista: Paulo
-DTEND:20260306T113000Z
-DTSTART:20260306T110000Z
-SUMMARY:[MYPK] - Divulgação de 2025:A (Pré-mercado)
-UID:2d052c4c-230b-527a-995d-1d771d173859
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Retail
-DESCRIPTION:Ticker: SBFG\nData: 2026-03-09\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Retail\nAnalista: Arthur
-DTEND:20260308T213000Z
-DTSTART:20260308T210000Z
-SUMMARY:[SBFG] - Divulgação de 2025:A (Pós-mercado)
-UID:c4711519-0ac6-5cb2-aad9-eae509a12f02
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Consumo - Miguel
-DESCRIPTION:Ticker: NATU\nData: 2026-03-16\nHorário: Notificação Arthur (07:00)\nPeríodo: 2025:A\nSetor: Consumo - Miguel\nAnalista: Arthur
-DTEND:20260316T103000Z
-DTSTART:20260316T100000Z
-SUMMARY:[NATU] - Divulgação de 2025:A (Notificação Arthur (07:00))
-UID:a0aa91fc-c135-51d6-967c-ccdee1bf9840
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: EQTL\nData: 2026-03-03\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260302T213000Z
-DTSTART:20260302T210000Z
-SUMMARY:[EQTL] - Divulgação de 2025:A (Pós-mercado)
-UID:38ba92fe-f602-55be-9b5e-4e00a2fb45d7
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Financials Ex-Bancos
-DESCRIPTION:Ticker: BSA\nData: 2026-03-02\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Financials Ex-Bancos\nAnalista: Arthur
-DTEND:20260301T213000Z
-DTSTART:20260301T210000Z
-SUMMARY:[BSA] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:f40855f5-96e1-59b3-9c77-3dfd28622623
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Healthcare
-DESCRIPTION:Ticker: VVEO\nData: 2026-03-02\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Healthcare\nAnalista: Arthur
-DTEND:20260301T213000Z
-DTSTART:20260301T210000Z
-SUMMARY:[VVEO] - Divulgação de 2025:A (Pós-mercado)
-UID:39806f91-bf28-509c-8603-bcf0d1687aea
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:TMT
-DESCRIPTION:Ticker: TOTS\nData: 2026-02-10\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: TMT\nAnalista: Paulo
-DTEND:20260209T213000Z
-DTSTART:20260209T210000Z
-SUMMARY:[TOTS] - Divulgação de 2025:A (Pós-mercado)
-UID:101b65ad-49ab-5b90-849d-fac67afe0c8d
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Rentals
-DESCRIPTION:Ticker: VAMO\nData: 2026-03-27\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Rentals\nAnalista: Paulo
-DTEND:20260326T213000Z
-DTSTART:20260326T210000Z
-SUMMARY:[VAMO] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:fa77875d-057a-5e39-a54f-bd926fefecde
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Pulp & Paper
-DESCRIPTION:Ticker: RANI\nData: 2026-02-11\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Pulp & Paper\nAnalista: Paulo
-DTEND:20260211T113000Z
-DTSTART:20260211T110000Z
-SUMMARY:[RANI] - Divulgação de 2025:A (Pré-mercado)
-UID:5af9163f-b8b2-5ee0-a1be-8ec851164f0b
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Healthcare
-DESCRIPTION:Ticker: BLAU\nData: 2026-03-17\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Healthcare\nAnalista: Arthur
-DTEND:20260316T213000Z
-DTSTART:20260316T210000Z
-SUMMARY:[BLAU] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:135fd456-4d80-5ee0-a20c-d04b0933ce85
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Retail
-DESCRIPTION:Ticker: GUAR\nData: 2026-02-24\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Retail\nAnalista: Arthur
-DTEND:20260223T213000Z
-DTSTART:20260223T210000Z
-SUMMARY:[GUAR] - Divulgação de 2025:A (Pós-mercado)
-UID:f03555ba-362f-5300-a701-a411abe75316
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Homebuilders
-DESCRIPTION:Ticker: CURY\nData: 2026-03-10\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Homebuilders\nAnalista: Arthur
-DTEND:20260309T213000Z
-DTSTART:20260309T210000Z
-SUMMARY:[CURY] - Divulgação de 2025:A (Pós-mercado)
-UID:27174c7b-4358-5f0b-a87d-6b91f03f0eef
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Homebuilders
-DESCRIPTION:Ticker: CYRE\nData: 2026-03-19\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Homebuilders\nAnalista: Arthur
-DTEND:20260318T213000Z
-DTSTART:20260318T210000Z
-SUMMARY:[CYRE] - Divulgação de 2025:A (Pós-mercado)
-UID:00b89b94-1c0f-52b8-bed0-a4f469107c67
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Staples
-DESCRIPTION:Ticker: VULC\nData: 2026-03-12\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Staples\nAnalista: Arthur
-DTEND:20260311T213000Z
-DTSTART:20260311T210000Z
-SUMMARY:[VULC] - Divulgação de 2025:A (Pós-mercado)
-UID:385a8605-e035-58fa-b86a-61b61efa4804
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Financials Ex-Bancos
-DESCRIPTION:Ticker: PAGS\nData: 2026-02-05\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Financials Ex-Bancos\nAnalista: Arthur
-DTEND:20260205T113000Z
-DTSTART:20260205T110000Z
-SUMMARY:[PAGS] - Divulgação de 2025:A (Pré-mercado)
-UID:38e73a98-dda2-5f40-9446-1ba808ccd6de
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Pulp & Paper
-DESCRIPTION:Ticker: KLBN\nData: 2026-02-10\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Pulp & Paper\nAnalista: Paulo
-DTEND:20260209T213000Z
-DTSTART:20260209T210000Z
-SUMMARY:[KLBN] - Divulgação de 2025:A (Pós-mercado)
-UID:cea9a172-50a1-577f-bc0b-a127374f2fd0
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: EGIE\nData: 2026-02-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260225T213000Z
-DTSTART:20260225T210000Z
-SUMMARY:[EGIE] - Divulgação de 2025:A (Pós-mercado)
-UID:7535e9dd-ea68-5101-88fa-ab42c65128c0
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Consumo - Miguel
-DESCRIPTION:Ticker: GRND\nData: 2026-02-12\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Consumo - Miguel\nAnalista: Arthur
-DTEND:20260212T113000Z
-DTSTART:20260212T110000Z
-SUMMARY:[GRND] - Divulgação de 2025:A (Pré-mercado)
-UID:a6558a47-d72c-53bb-9a36-93265b1ab80a
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Staples
-DESCRIPTION:Ticker: PCAR\nData: 2026-03-03\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Staples\nAnalista: Arthur
-DTEND:20260302T213000Z
-DTSTART:20260302T210000Z
-SUMMARY:[PCAR] - Divulgação de 2025:A (Pós-mercado)
-UID:78c320ec-72f1-5b0a-a80b-d077062d9b0f
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Rentals
-DESCRIPTION:Ticker: RENT\nData: 2026-03-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Rentals\nAnalista: Paulo
-DTEND:20260325T213000Z
-DTSTART:20260325T210000Z
-SUMMARY:[RENT] - Divulgação de 2025:A (Pós-mercado)
-UID:ed0ff06b-e4a5-5530-a21f-932db042ed8b
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Industrials + Gestão de Resíduos
-DESCRIPTION:Ticker: TUPY\nData: 2026-02-25\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos\nAnalista: Paulo
-DTEND:20260224T213000Z
-DTSTART:20260224T210000Z
-SUMMARY:[TUPY] - Divulgação de 2025:A (Pós-mercado)
-UID:be000e6b-b51e-539b-ae08-62afa1927f73
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Properties
-DESCRIPTION:Ticker: ALOS\nData: 2026-03-10\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Properties\nAnalista: Arthur
-DTEND:20260309T213000Z
-DTSTART:20260309T210000Z
-SUMMARY:[ALOS] - Divulgação de 2025:A (Pós-mercado)
-UID:af193d42-e552-57de-aa89-54eee107dfbe
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Retail
-DESCRIPTION:Ticker: LJQQ\nData: 2026-03-04\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Retail\nAnalista: Arthur
-DTEND:20260303T213000Z
-DTSTART:20260303T210000Z
-SUMMARY:[LJQQ] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:029adc0e-26eb-5e44-bcd7-bee60fc9c73f
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Staples
-DESCRIPTION:Ticker: ASAI\nData: 2026-02-11\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Staples\nAnalista: Arthur
-DTEND:20260210T213000Z
-DTSTART:20260210T210000Z
-SUMMARY:[ASAI] - Divulgação de 2025:A (Pós-mercado)
-UID:e810327f-3ff4-5bbe-b5ba-f03bb3b1d12b
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Homebuilders
-DESCRIPTION:Ticker: HBOR\nData: 2026-03-24\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Homebuilders\nAnalista: Arthur
-DTEND:20260323T213000Z
-DTSTART:20260323T210000Z
-SUMMARY:[HBOR] - Divulgação de 2025:A (Pós-mercado)
-UID:f83908c9-52c8-52f1-b457-957f72083f5b
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: AURE\nData: 2026-03-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260304T213000Z
-DTSTART:20260304T210000Z
-SUMMARY:[AURE] - Divulgação de 2025:A (Pós-mercado)
-UID:7a1361e1-72ef-597a-934b-179dff3ba740
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Rentals
-DESCRIPTION:Ticker: ARML\nData: 2026-03-26\nHorário: Notificação Paulo (08:00)\nPeríodo: 2025:Q4\nSetor: Rentals\nAnalista: Paulo
+DESCRIPTION:Ticker: CPLE\nData: 2026-03-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
 DTEND:20260326T113000Z
 DTSTART:20260326T110000Z
-SUMMARY:[ARML] - Divulgação de 2025:Q4 (Notificação Paulo (08:00))
-UID:78b5f13f-de23-5bf4-b81b-a1dcc2258a8c
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Rentals
-DESCRIPTION:Ticker: GGPS\nData: 2026-03-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Rentals\nAnalista: Paulo
-DTEND:20260304T213000Z
-DTSTART:20260304T210000Z
-SUMMARY:[GGPS] - Divulgação de 2025:A (Pós-mercado)
-UID:639c062b-ed6c-5498-82cb-8738037b998e
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Financials Ex-Bancos
-DESCRIPTION:Ticker: BBSE\nData: 2026-02-11\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Financials Ex-Bancos\nAnalista: Arthur
-DTEND:20260210T213000Z
-DTSTART:20260210T210000Z
-SUMMARY:[BBSE] - Divulgação de 2025:A (Pós-mercado)
-UID:692babbf-2a00-56a7-a792-0a5a7b286573
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Retail
-DESCRIPTION:Ticker: VIVA\nData: 2026-03-18\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Retail\nAnalista: Arthur
-DTEND:20260317T213000Z
-DTSTART:20260317T210000Z
-SUMMARY:[VIVA] - Divulgação de 2025:A (Pós-mercado)
-UID:bf38a617-1896-56f8-aab3-028a50d45edc
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: CMIG\nData: 2026-03-25\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260324T213000Z
-DTSTART:20260324T210000Z
-SUMMARY:[CMIG] - Divulgação de 2025:A (Pós-mercado)
-UID:b60f0f15-77a7-5f7b-ab49-670118474a5a
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Oil & Gas
-DESCRIPTION:Ticker: PETR\nData: 2026-02-23\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Oil & Gas\nAnalista: Paulo
-DTEND:20260222T213000Z
-DTSTART:20260222T210000Z
-SUMMARY:[PETR] - Divulgação de 2025:A (Pós-mercado)
-UID:3fda502a-a4a0-5dde-ab01-d1f93f970cf1
+SUMMARY:[CPLE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:0ccdf67b-490c-5bd1-9aba-2dc8e0d024bf
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Consumo - Miguel
-DESCRIPTION:Ticker: MDIA\nData: 2026-03-05\nHorário: 18:00\nPeríodo: 2025:A\nSetor: Consumo - Miguel\nAnalista: Arthur
-DTEND:20260305T213000Z
-DTSTART:20260305T210000Z
-SUMMARY:[MDIA] - Divulgação de 2025:A (18:00)
-UID:df669f7e-3196-5ba7-890b-d046d20e89c6
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: ELET\nData: 2026-02-12\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260211T213000Z
-DTSTART:20260211T210000Z
-SUMMARY:[ELET] - Divulgação de 2025:A (Pós-mercado)
-UID:e326ca8e-7e5f-595c-95ec-b1202cc70ce9
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Elétricas
-DESCRIPTION:Ticker: SAPR\nData: 2026-03-12\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Elétricas\nAnalista: Paulo
-DTEND:20260311T213000Z
-DTSTART:20260311T210000Z
-SUMMARY:[SAPR] - Divulgação de 2025:A (Pós-mercado)
-UID:555f66ea-6485-5303-a92c-040e29877977
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Oil & Gas
-DESCRIPTION:Ticker: UGPA\nData: 2026-03-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Oil & Gas\nAnalista: Paulo
-DTEND:20260304T213000Z
-DTSTART:20260304T210000Z
-SUMMARY:[UGPA] - Divulgação de 2025:A (Pós-mercado)
-UID:e655ec61-b2db-5e14-a825-cbdb3616edad
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Homebuilders
-DESCRIPTION:Ticker: TEND\nData: 2026-03-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Homebuilders\nAnalista: Arthur
-DTEND:20260304T213000Z
-DTSTART:20260304T210000Z
-SUMMARY:[TEND] - Divulgação de 2025:A (Pós-mercado)
-UID:e11e9fef-570b-56c6-a131-a262391f8352
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Bancos
-DESCRIPTION:Ticker: ITUB\nData: 2026-02-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Bancos\nAnalista: Arthur
-DTEND:20260204T213000Z
-DTSTART:20260204T210000Z
-SUMMARY:[ITUB] - Divulgação de 2025:A (Pós-mercado)
-UID:73811117-575d-5117-9f13-c8e2adea8bba
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:TMT
-DESCRIPTION:Ticker: LWSA\nData: 2026-03-03\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: TMT\nAnalista: Paulo
-DTEND:20260302T213000Z
-DTSTART:20260302T210000Z
-SUMMARY:[LWSA] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:ece4387c-0749-5fa4-b210-67d029ef5cb2
+DESCRIPTION:Ticker: MDIA\nData: 2026-02-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Consumo - Miguel
+DTEND:20260226T103000Z
+DTSTART:20260226T100000Z
+SUMMARY:[MDIA] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:021a12a4-89af-5f17-ae1b-ee01e19809fa
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Industrials + Gestão de Resíduos
-DESCRIPTION:Ticker: LEVE\nData: 2026-03-11\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos\nAnalista: Paulo
-DTEND:20260310T213000Z
-DTSTART:20260310T210000Z
-SUMMARY:[LEVE] - Divulgação de 2025:A (Pós-mercado)
-UID:d4078c3a-9c32-557e-a308-e33848faedc4
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Oil & Gas
-DESCRIPTION:Ticker: PRIO\nData: 2026-03-04\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Oil & Gas\nAnalista: Paulo
-DTEND:20260303T213000Z
-DTSTART:20260303T210000Z
-SUMMARY:[PRIO] - Divulgação de 2025:A (Pós-mercado)
-UID:df3f45c1-ba21-53e7-b144-e1d48c83ad3b
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Industrials + Gestão de Resíduos
-DESCRIPTION:Ticker: FRAS\nData: 2026-03-19\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos\nAnalista: Paulo
-DTEND:20260318T213000Z
-DTSTART:20260318T210000Z
-SUMMARY:[FRAS] - Divulgação de 2025:A (Pós-mercado)
-UID:8a873982-e0c0-5333-9a1e-6f4f77550876
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Properties
-DESCRIPTION:Ticker: IGTI\nData: 2026-02-24\nHorário: Notificação Arthur (07:00)\nPeríodo: 2025:A\nSetor: Properties\nAnalista: Arthur
-DTEND:20260224T103000Z
-DTSTART:20260224T100000Z
-SUMMARY:[IGTI] - Divulgação de 2025:A (Notificação Arthur (07:00))
-UID:750d6351-dacb-5708-b318-d20f42ea3ade
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Healthcare
-DESCRIPTION:Ticker: HAPV\nData: 2026-03-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Healthcare\nAnalista: Arthur
-DTEND:20260325T213000Z
-DTSTART:20260325T210000Z
-SUMMARY:[HAPV] - Divulgação de 2025:A (Pós-mercado)
-UID:b16fc02b-3ac5-520b-90a7-8cf200344269
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Oil & Gas
-DESCRIPTION:Ticker: RAIZ\nData: 2026-02-11\nHorário: Pós-mercado\nPeríodo: 2026:Q3\nSetor: Oil & Gas\nAnalista: Paulo
-DTEND:20260210T213000Z
-DTSTART:20260210T210000Z
-SUMMARY:[RAIZ] - Divulgação de 2026:Q3 (Pós-mercado)
-UID:33d2ded8-e240-5d7f-88de-94edcd144639
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Staples
-DESCRIPTION:Ticker: HYPE\nData: 2026-03-11\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Staples\nAnalista: Arthur
-DTEND:20260310T213000Z
-DTSTART:20260310T210000Z
-SUMMARY:[HYPE] - Divulgação de 2025:A (Pós-mercado)
-UID:31bef920-2b8a-557d-ae45-63d0b86d45fc
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Retail
-DESCRIPTION:Ticker: AZZA\nData: 2026-03-11\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Retail\nAnalista: Arthur
-DTEND:20260311T113000Z
-DTSTART:20260311T110000Z
-SUMMARY:[AZZA] - Divulgação de 2025:A (Pré-mercado)
-UID:fbd997d1-bd93-5818-ba4c-bbba09e9f4f1
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Industrials + Gestão de Resíduos
-DESCRIPTION:Ticker: WEGE\nData: 2026-02-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos\nAnalista: Paulo
-DTEND:20260225T213000Z
-DTSTART:20260225T210000Z
-SUMMARY:[WEGE] - Divulgação de 2025:A (Pós-mercado)
-UID:edb63203-5368-507a-bf6a-b0b81cc1485c
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Healthcare
-DESCRIPTION:Ticker: ODPV\nData: 2026-02-26\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Healthcare\nAnalista: Arthur
-DTEND:20260225T213000Z
-DTSTART:20260225T210000Z
-SUMMARY:[ODPV] - Divulgação de 2025:A (Pós-mercado)
-UID:e6fcea79-70b0-5ba1-a3cf-c2a7ab3898bd
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Homebuilders
-DESCRIPTION:Ticker: MRVE\nData: 2026-03-09\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Homebuilders\nAnalista: Arthur
-DTEND:20260308T213000Z
-DTSTART:20260308T210000Z
-SUMMARY:[MRVE] - Divulgação de 2025:A (Pós-mercado)
-UID:a2a478ab-84e5-5d10-8020-203f379f567c
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Homebuilders
-DESCRIPTION:Ticker: EZTC\nData: 2026-03-12\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Homebuilders\nAnalista: Arthur
-DTEND:20260311T213000Z
-DTSTART:20260311T210000Z
-SUMMARY:[EZTC] - Divulgação de 2025:A (Pós-mercado)
-UID:8fd1777c-7bab-53d3-ad45-f956d33bc7cf
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Homebuilders
-DESCRIPTION:Ticker: PLPL\nData: 2026-03-11\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Homebuilders\nAnalista: Arthur
-DTEND:20260310T213000Z
-DTSTART:20260310T210000Z
-SUMMARY:[PLPL] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:bffcc87f-8be6-5132-a723-033463f9b08d
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Metals & Mining
-DESCRIPTION:Ticker: CBAV\nData: 2026-02-13\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Metals & Mining\nAnalista: Paulo
-DTEND:20260213T113000Z
-DTSTART:20260213T110000Z
-SUMMARY:[CBAV] - Divulgação de 2025:A (Pré-mercado)
-UID:763ab033-8a81-530f-a028-97bf3df20ccd
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Industrials + Gestão de Resíduos
-DESCRIPTION:Ticker: POMO\nData: 2026-02-25\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos\nAnalista: Paulo
+DESCRIPTION:Ticker: DXCO\nData: 2026-02-25\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos
 DTEND:20260225T113000Z
 DTSTART:20260225T110000Z
-SUMMARY:[POMO] - Divulgação de 2025:A (Pré-mercado)
-UID:fc0f8683-69a5-50c0-bcb0-7da7c7980f8c
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Properties
-DESCRIPTION:Ticker: HBRE\nData: 2026-03-05\nHorário: Notificação Arthur (07:00)\nPeríodo: 2025:A\nSetor: Properties\nAnalista: Arthur
-DTEND:20260305T103000Z
-DTSTART:20260305T100000Z
-SUMMARY:[HBRE] - Divulgação de 2025:A (Notificação Arthur (07:00))
-UID:3c24525f-5cda-5528-9ebb-ae163453cab0
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Financials Ex-Bancos
-DESCRIPTION:Ticker: CASH\nData: 2026-02-09\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Financials Ex-Bancos\nAnalista: Arthur
-DTEND:20260208T213000Z
-DTSTART:20260208T210000Z
-SUMMARY:[CASH] - Divulgação de 2025:A (Pós-mercado)
-UID:db65dd5b-2b7e-5ec9-b79d-67894d8daf49
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Industrials + Gestão de Resíduos
-DESCRIPTION:Ticker: RAPT\nData: 2026-03-16\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos\nAnalista: Paulo
-DTEND:20260315T213000Z
-DTSTART:20260315T210000Z
-SUMMARY:[RAPT] - Divulgação de 2025:A (Pós-mercado)
-UID:4949b9a6-a8c2-5491-b0b4-d7ced47a7868
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Industrials + Gestão de Resíduos
-DESCRIPTION:Ticker: ORVR\nData: 2026-03-25\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos\nAnalista: Paulo
-DTEND:20260324T213000Z
-DTSTART:20260324T210000Z
-SUMMARY:[ORVR] - Divulgação de 2025:A (Pós-mercado)
-UID:80bd4d80-d466-5e83-a66d-e270a862ebbe
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Financials Ex-Bancos
-DESCRIPTION:Ticker: IRBR\nData: 2026-03-04\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Financials Ex-Bancos\nAnalista: Arthur
-DTEND:20260303T213000Z
-DTSTART:20260303T210000Z
-SUMMARY:[IRBR] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:f71fcfe0-773f-58f3-bf05-c37b019e8b75
+SUMMARY:[DXCO] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:22636e3d-cb02-5c52-a017-f4f3e4e3a7c3
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:TMT
-DESCRIPTION:Ticker: TIMS\nData: 2026-02-23\nHorário: Pré-mercado\nPeríodo: 2025:A\nSetor: TMT\nAnalista: Paulo
-DTEND:20260223T113000Z
-DTSTART:20260223T110000Z
-SUMMARY:[TIMS] - Divulgação de 2025:A (Pré-mercado)
-UID:90ac52e1-2e23-5dfb-acdf-0ba3b7958e55
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:TMT
-DESCRIPTION:Ticker: INTB\nData: 2026-02-25\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: TMT\nAnalista: Paulo
-DTEND:20260224T213000Z
-DTSTART:20260224T210000Z
-SUMMARY:[INTB] - Divulgação de 2025:A (Pós-mercado)
-UID:4381d7d0-e5b2-5e7e-a45d-4d6166138810
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Financials Ex-Bancos
-DESCRIPTION:Ticker: STNE\nData: 2026-02-26\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Financials Ex-Bancos\nAnalista: Arthur
-DTEND:20260225T213000Z
-DTSTART:20260225T210000Z
-SUMMARY:[STNE] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:abaea809-23c2-57a0-97d2-42e857cae9bd
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Bancos
-DESCRIPTION:Ticker: ROXO\nData: 2026-02-25\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Bancos\nAnalista: Arthur
-DTEND:20260224T213000Z
-DTSTART:20260224T210000Z
-SUMMARY:[ROXO] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:fcd33ca9-fcdc-5b38-8f2b-4543fae78dba
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Healthcare
-DESCRIPTION:Ticker: RDOR\nData: 2026-03-30\nHorário: Pós-mercado\nPeríodo: 2025:Q4\nSetor: Healthcare\nAnalista: Arthur
-DTEND:20260329T213000Z
-DTSTART:20260329T210000Z
-SUMMARY:[RDOR] - Divulgação de 2025:Q4 (Pós-mercado)
-UID:d024c4bd-5229-520b-8cfd-24da511db6f7
+DESCRIPTION:Ticker: INTB\nData: 2026-02-25\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: TMT
+DTEND:20260225T113000Z
+DTSTART:20260225T110000Z
+SUMMARY:[INTB] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:12cd37ab-db9c-5457-aaf3-ac9be5b26296
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:E-commerce
-DESCRIPTION:Ticker: MGLU\nData: 2026-03-05\nHorário: Pós-mercado\nPeríodo: 2025:A\nSetor: E-commerce\nAnalista: Arthur
-DTEND:20260304T213000Z
-DTSTART:20260304T210000Z
-SUMMARY:[MGLU] - Divulgação de 2025:A (Pós-mercado)
-UID:b0e63980-8a7a-517c-90a7-30a43dfec457
+DESCRIPTION:Ticker: MGLU\nData: 2026-03-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: E-commerce
+DTEND:20260305T103000Z
+DTSTART:20260305T100000Z
+SUMMARY:[MGLU] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:f89b2f3d-e902-5d16-9630-4875c85c7d49
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Rentals
+DESCRIPTION:Ticker: GGPS\nData: 2026-03-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Rentals
+DTEND:20260305T113000Z
+DTSTART:20260305T110000Z
+SUMMARY:[GGPS] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:0c0bcf2c-3020-54ca-9322-80f3cacc37f5
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Industrials + Gestão de Resíduos
+DESCRIPTION:Ticker: RAPT\nData: 2026-03-16\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos
+DTEND:20260316T113000Z
+DTSTART:20260316T110000Z
+SUMMARY:[RAPT] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:f78783a7-33dc-5edf-b2dc-da6b9a5d7a17
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Pulp & Paper
+DESCRIPTION:Ticker: SUZB\nData: 2026-02-13\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Pulp & Paper
+DTEND:20260212T113000Z
+DTSTART:20260212T110000Z
+SUMMARY:[SUZB] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:170b773e-b639-5b89-848b-f355466d61b5
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Rodovias + Logistics Infrastructure
+DESCRIPTION:Ticker: RAIL\nData: 2026-03-17\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Rodovias + Logistics Infrastructure
+DTEND:20260317T113000Z
+DTSTART:20260317T110000Z
+SUMMARY:[RAIL] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:2223dd87-e80e-59f4-bda0-9d0a79f1e8a0
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: CSMG\nData: 2026-02-25\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260225T113000Z
+DTSTART:20260225T110000Z
+SUMMARY:[CSMG] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:50ba6dcb-6677-5d25-9461-80fc8d25eaec
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Consumo - Miguel
+DESCRIPTION:Ticker: GRND\nData: 2026-03-05\nPeríodo: 2025:A\nSetor: Consumo - Miguel
+DTEND:20260305T103000Z
+DTSTART:20260305T100000Z
+SUMMARY:[GRND] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:4c276e18-c0b2-56a5-aa04-ae92a6bad32d
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Metals & Mining
+DESCRIPTION:Ticker: GGBR\nData: 2026-03-27\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Metals & Mining
+DTEND:20260326T113000Z
+DTSTART:20260326T110000Z
+SUMMARY:[GGBR] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:516c7eea-a74a-59e3-8c2f-62057e2b977d
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Rentals
+DESCRIPTION:Ticker: MOVI\nData: 2026-03-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Rentals
+DTEND:20260305T113000Z
+DTSTART:20260305T110000Z
+SUMMARY:[MOVI] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:468ba8f2-94f0-5b5e-836d-bdd37a36d9e5
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Healthcare
+DESCRIPTION:Ticker: FLRY\nData: 2026-03-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Healthcare
+DTEND:20260305T103000Z
+DTSTART:20260305T100000Z
+SUMMARY:[FLRY] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:e8671e6c-272e-50e1-9182-13c167582763
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Bancos
-DESCRIPTION:Ticker: INBR\nData: 2026-02-10\nHorário: Pré-mercado\nPeríodo: 2025:Q4\nSetor: Bancos\nAnalista: Arthur
+DESCRIPTION:Ticker: BBDC\nData: 2026-02-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Bancos
+DTEND:20260205T103000Z
+DTSTART:20260205T100000Z
+SUMMARY:[BBDC] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:b22f985e-4817-5450-8880-6f969782cb64
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bancos
+DESCRIPTION:Ticker: INBR\nData: 2026-02-10\nHorário/Janela: Bef-mkt\nPeríodo: 2025:Q4\nSetor: Bancos
+DTEND:20260209T103000Z
+DTSTART:20260209T100000Z
+SUMMARY:[INBR] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:1392075c-4b1c-5c4f-9d70-29dac9d65932
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Consumo - Miguel
+DESCRIPTION:Ticker: PETZ\nData: 2026-03-18\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Consumo - Miguel
+DTEND:20260318T103000Z
+DTSTART:20260318T100000Z
+SUMMARY:[PETZ] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:a723259b-a983-5f3c-abd8-54941f55464f
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Properties
+DESCRIPTION:Ticker: MULT\nData: 2026-02-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Properties
+DTEND:20260205T103000Z
+DTSTART:20260205T100000Z
+SUMMARY:[MULT] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:12ff2bc6-1863-5dd7-b065-c4d197904819
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Healthcare
+DESCRIPTION:Ticker: BLAU\nData: 2026-03-17\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Healthcare
+DTEND:20260317T103000Z
+DTSTART:20260317T100000Z
+SUMMARY:[BLAU] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:235740c5-7842-5b36-85e4-d24cde537946
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Staples
+DESCRIPTION:Ticker: PCAR\nData: 2026-02-24\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Staples
+DTEND:20260224T103000Z
+DTSTART:20260224T100000Z
+SUMMARY:[PCAR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:413d552a-01f2-55b6-bc0a-f7bada5d3990
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bancos
+DESCRIPTION:Ticker: BRBI\nData: 2026-02-05\nPeríodo: 2025:A\nSetor: Bancos
+DTEND:20260205T103000Z
+DTSTART:20260205T100000Z
+SUMMARY:[BRBI] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:edc7f5f6-ff3a-55d7-acfa-874669dcfd4c
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Staples
+DESCRIPTION:Ticker: MLAS\nData: 2026-03-25\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Staples
+DTEND:20260325T103000Z
+DTSTART:20260325T100000Z
+SUMMARY:[MLAS] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:b4e8dab4-9777-5401-889f-964a0a244d70
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Staples
+DESCRIPTION:Ticker: RADL\nData: 2026-03-03\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Staples
+DTEND:20260303T103000Z
+DTSTART:20260303T100000Z
+SUMMARY:[RADL] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:a4d716d1-8349-55a0-9ad4-0bf8177098bc
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Retail
+DESCRIPTION:Ticker: CVCB\nData: 2026-03-18\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Retail
+DTEND:20260318T103000Z
+DTSTART:20260318T100000Z
+SUMMARY:[CVCB] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:50542cac-6021-5d5e-a7ed-e4dae5866e1a
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Metals & Mining
+DESCRIPTION:Ticker: CMIN\nData: 2026-03-11\nPeríodo: 2025:Q4\nSetor: Metals & Mining
+DTEND:20260311T113000Z
+DTSTART:20260311T110000Z
+SUMMARY:[CMIN] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:aef57f23-7835-544b-9939-85b592494ba3
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Metals & Mining
+DESCRIPTION:Ticker: BRAP\nData: 2026-02-12\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Metals & Mining
+DTEND:20260212T113000Z
+DTSTART:20260212T110000Z
+SUMMARY:[BRAP] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:aae3046c-12e1-5693-9b81-039967727ebe
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: AXIA\nData: 2026-02-12\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260212T113000Z
+DTSTART:20260212T110000Z
+SUMMARY:[AXIA] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:f2bb97de-ccc8-5d8d-b8d6-9d6e643b307c
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bancos
+DESCRIPTION:Ticker: SANB\nData: 2026-02-04\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Bancos
+DTEND:20260203T103000Z
+DTSTART:20260203T100000Z
+SUMMARY:[SANB] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:2d100490-2589-55d5-bc9c-c4b733035f21
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: TAEE\nData: 2026-03-16\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260316T113000Z
+DTSTART:20260316T110000Z
+SUMMARY:[TAEE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:eb94327b-c115-5d9d-8bf5-f91e9cb0fac7
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: EQTL\nData: 2026-03-03\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260303T113000Z
+DTSTART:20260303T110000Z
+SUMMARY:[EQTL] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:759d03ac-f696-52b0-ae5d-5baa90bf4017
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: CPFE\nData: 2026-03-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260326T113000Z
+DTSTART:20260326T110000Z
+SUMMARY:[CPFE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:ba82f77d-07b7-5c6c-9142-3ae91b09db01
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Oil & Gas
+DESCRIPTION:Ticker: CSAN\nData: 2026-03-10\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Oil & Gas
+DTEND:20260310T113000Z
+DTSTART:20260310T110000Z
+SUMMARY:[CSAN] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:7821a456-fca2-5440-94d2-2456a63fd1d6
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Properties
+DESCRIPTION:Ticker: LOGG\nData: 2026-02-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Properties
+DTEND:20260211T103000Z
+DTSTART:20260211T100000Z
+SUMMARY:[LOGG] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:fac0317b-8f95-5707-89fb-32a258a1aace
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Industrials + Gestão de Resíduos
+DESCRIPTION:Ticker: EMBJ\nData: 2026-02-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos
+DTEND:20260226T113000Z
+DTSTART:20260226T110000Z
+SUMMARY:[EMBJ] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:567a3e31-2916-511a-bc47-0caa653e7e1c
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Financials Ex-Bancos
+DESCRIPTION:Ticker: CASH\nData: 2026-03-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Financials Ex-Bancos
+DTEND:20260311T103000Z
+DTSTART:20260311T100000Z
+SUMMARY:[CASH] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:1ba7db25-b8ce-5ece-87dc-58a5dd2ae729
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Oil & Gas
+DESCRIPTION:Ticker: RECV\nData: 2026-03-18\nPeríodo: 2025:A\nSetor: Oil & Gas
+DTEND:20260318T113000Z
+DTSTART:20260318T110000Z
+SUMMARY:[RECV] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:5d4554d3-f249-5527-b276-3433bda6eaf8
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bancos
+DESCRIPTION:Ticker: ABCB\nData: 2026-02-06\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Bancos
+DTEND:20260205T103000Z
+DTSTART:20260205T100000Z
+SUMMARY:[ABCB] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:d80ccfcb-cfd4-5380-8f21-9b8191d6ff82
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Financials Ex-Bancos
+DESCRIPTION:Ticker: BBSE\nData: 2026-02-09\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Financials Ex-Bancos
+DTEND:20260209T103000Z
+DTSTART:20260209T100000Z
+SUMMARY:[BBSE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:76e9c0c6-f9eb-5727-9de8-b52adcf23403
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Healthcare
+DESCRIPTION:Ticker: RDOR\nData: 2026-03-30\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Healthcare
+DTEND:20260330T103000Z
+DTSTART:20260330T100000Z
+SUMMARY:[RDOR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:5fc9fcf0-eaf3-5351-b332-73052c3a316a
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Financials Ex-Bancos
+DESCRIPTION:Ticker: STNE\nData: 2026-03-02\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Financials Ex-Bancos
+DTEND:20260302T103000Z
+DTSTART:20260302T100000Z
+SUMMARY:[STNE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:2ebb48f9-8097-5a45-864b-60cfe75e0f83
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Oil & Gas
+DESCRIPTION:Ticker: UGPA\nData: 2026-03-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Oil & Gas
+DTEND:20260305T113000Z
+DTSTART:20260305T110000Z
+SUMMARY:[UGPA] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:d96b784d-d07a-52b4-ba51-fcb7de155062
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Homebuilders
+DESCRIPTION:Ticker: TEND\nData: 2026-03-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Homebuilders
+DTEND:20260305T103000Z
+DTSTART:20260305T100000Z
+SUMMARY:[TEND] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:251fbbe2-473d-5c5f-a37a-579161871c26
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Oil & Gas
+DESCRIPTION:Ticker: RAIZ\nData: 2026-02-11\nHorário/Janela: Aft-mkt\nPeríodo: 2026:Q3\nSetor: Oil & Gas
+DTEND:20260211T113000Z
+DTSTART:20260211T110000Z
+SUMMARY:[RAIZ] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:37168ab1-33e7-549a-ab77-b0a7f10eb399
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Pulp & Paper
+DESCRIPTION:Ticker: RANI\nData: 2026-02-11\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Pulp & Paper
 DTEND:20260210T113000Z
 DTSTART:20260210T110000Z
-SUMMARY:[INBR] - Divulgação de 2025:Q4 (Pré-mercado)
-UID:35334d45-cf37-5882-9891-eea2363132c7
+SUMMARY:[RANI] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:82aa1c9c-a0ea-58e2-98ec-f08775b04a4d
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: ENEV\nData: 2026-03-17\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260317T113000Z
+DTSTART:20260317T110000Z
+SUMMARY:[ENEV] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:dfc09c2a-2f77-5c27-8940-7819774fac46
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Industrials + Gestão de Resíduos
+DESCRIPTION:Ticker: POMO\nData: 2026-02-25\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos
+DTEND:20260225T113000Z
+DTSTART:20260225T110000Z
+SUMMARY:[POMO] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:10bc4d47-6379-5b33-bfad-f3fb3c0b98a0
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Financials Ex-Bancos
+DESCRIPTION:Ticker: CXSE\nData: 2026-02-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Financials Ex-Bancos
+DTEND:20260226T103000Z
+DTSTART:20260226T100000Z
+SUMMARY:[CXSE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:e20436d3-2deb-5c32-98ba-435bfac011be
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bancos
+DESCRIPTION:Ticker: ITSA\nData: 2026-03-16\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Bancos
+DTEND:20260316T103000Z
+DTSTART:20260316T100000Z
+SUMMARY:[ITSA] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:e82be271-44aa-5a97-b047-6d1b44789adf
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Homebuilders
+DESCRIPTION:Ticker: MRVE\nData: 2026-03-09\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Homebuilders
+DTEND:20260309T103000Z
+DTSTART:20260309T100000Z
+SUMMARY:[MRVE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:fa9a82fc-2db2-5313-8deb-e5decf111d22
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Oil & Gas
+DESCRIPTION:Ticker: OPCT\nData: 2026-03-04\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Oil & Gas
+DTEND:20260304T113000Z
+DTSTART:20260304T110000Z
+SUMMARY:[OPCT] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:7c575ad5-224a-5a29-b5f0-0c96279af7ea
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bancos
+DESCRIPTION:Ticker: BBAS\nData: 2026-02-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Bancos
+DTEND:20260211T103000Z
+DTSTART:20260211T100000Z
+SUMMARY:[BBAS] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:ad0040e1-2728-5744-bdfa-77613de5a0a4
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Retail
+DESCRIPTION:Ticker: GUAR\nData: 2026-02-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Retail
+DTEND:20260211T103000Z
+DTSTART:20260211T100000Z
+SUMMARY:[GUAR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:0ea2e880-9c6b-5f1f-ba86-88892fd2e078
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Rentals
+DESCRIPTION:Ticker: VAMO\nData: 2026-03-27\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Rentals
+DTEND:20260327T113000Z
+DTSTART:20260327T110000Z
+SUMMARY:[VAMO] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:8cc78277-ebed-550b-a371-3fde4a6587a4
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Retail
+DESCRIPTION:Ticker: CEAB\nData: 2026-02-24\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Retail
+DTEND:20260224T103000Z
+DTSTART:20260224T100000Z
+SUMMARY:[CEAB] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:29e101f2-7ae1-59a1-87de-2d1987ae6d9b
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Healthcare
+DESCRIPTION:Ticker: ODPV\nData: 2026-02-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Healthcare
+DTEND:20260226T103000Z
+DTSTART:20260226T100000Z
+SUMMARY:[ODPV] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:a3f8c4e5-1636-599f-bc48-6cfea0d9e496
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Rentals
+DESCRIPTION:Ticker: RENT\nData: 2026-03-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Rentals
+DTEND:20260326T113000Z
+DTSTART:20260326T110000Z
+SUMMARY:[RENT] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:1e40a8f4-17fd-5491-8f7b-6f7b770ed74b
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TMT
+DESCRIPTION:Ticker: TOTS\nData: 2026-02-10\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: TMT
+DTEND:20260210T113000Z
+DTSTART:20260210T110000Z
+SUMMARY:[TOTS] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:6b454d26-97f2-5d2e-8758-ac91f6347c3e
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Industrials + Gestão de Resíduos
+DESCRIPTION:Ticker: ORVR\nData: 2026-03-25\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos
+DTEND:20260325T113000Z
+DTSTART:20260325T110000Z
+SUMMARY:[ORVR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:c1bbf976-cefd-5fff-83ca-5c2a5409455b
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TMT
+DESCRIPTION:Ticker: VIVT\nData: 2026-02-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: TMT
+DTEND:20260211T113000Z
+DTSTART:20260211T110000Z
+SUMMARY:[VIVT] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:1efa12bb-f3ac-5509-90c7-71d22ac633f8
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Homebuilders
+DESCRIPTION:Ticker: PLPL\nData: 2026-03-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Homebuilders
+DTEND:20260311T103000Z
+DTSTART:20260311T100000Z
+SUMMARY:[PLPL] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:bf7670bd-2a14-5d4a-87a3-f43676d8a4aa
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TMT
+DESCRIPTION:Ticker: TIMS\nData: 2026-02-23\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: TMT
+DTEND:20260222T113000Z
+DTSTART:20260222T110000Z
+SUMMARY:[TIMS] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:cbc8dcc9-c858-52da-9c6a-0d6966807ffc
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Properties
+DESCRIPTION:Ticker: HBRE\nData: 2026-03-05\nPeríodo: 2025:A\nSetor: Properties
+DTEND:20260305T103000Z
+DTSTART:20260305T100000Z
+SUMMARY:[HBRE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:b0d66813-4624-5d85-b106-2ddee66444f1
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Financials Ex-Bancos
+DESCRIPTION:Ticker: PSSA\nData: 2026-02-05\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Financials Ex-Bancos
+DTEND:20260204T103000Z
+DTSTART:20260204T100000Z
+SUMMARY:[PSSA] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:eee3b243-fec2-563f-9090-af434187eb7a
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: ALUP\nData: 2026-03-12\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260312T113000Z
+DTSTART:20260312T110000Z
+SUMMARY:[ALUP] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:f076213c-04a2-586b-832e-b5c83284c361
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Homebuilders
+DESCRIPTION:Ticker: DIRR\nData: 2026-03-09\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Homebuilders
+DTEND:20260309T103000Z
+DTSTART:20260309T100000Z
+SUMMARY:[DIRR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:461754a7-5fdb-5bd8-bec4-5f090c0c776a
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Oil & Gas
+DESCRIPTION:Ticker: BRAV\nData: 2026-03-10\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Oil & Gas
+DTEND:20260310T113000Z
+DTSTART:20260310T110000Z
+SUMMARY:[BRAV] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:2285da75-e1d0-548f-99dc-f9b346fc39ac
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Homebuilders
+DESCRIPTION:Ticker: EZTC\nData: 2026-03-12\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Homebuilders
+DTEND:20260312T103000Z
+DTSTART:20260312T100000Z
+SUMMARY:[EZTC] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:9f74ec66-cf4e-53b2-97aa-6c78040b1345
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Consumo - Miguel
+DESCRIPTION:Ticker: ABEV\nData: 2026-02-12\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Consumo - Miguel
+DTEND:20260211T103000Z
+DTSTART:20260211T100000Z
+SUMMARY:[ABEV] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:95a25eb9-92e4-5ce1-a664-17d023b2a926
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Homebuilders
+DESCRIPTION:Ticker: CURY\nData: 2026-03-10\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Homebuilders
+DTEND:20260310T103000Z
+DTSTART:20260310T100000Z
+SUMMARY:[CURY] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:eeca7f06-b62b-55c0-954f-ef04eddea8be
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: ENGI\nData: 2026-02-25\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260224T113000Z
+DTSTART:20260224T110000Z
+SUMMARY:[ENGI] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:6afa6b81-eee0-513f-a057-652c63206981
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Retail
+DESCRIPTION:Ticker: SBFG\nData: 2026-03-09\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Retail
+DTEND:20260309T103000Z
+DTSTART:20260309T100000Z
+SUMMARY:[SBFG] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:c5962b56-ffad-5089-a684-0e500dbeda82
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bancos
+DESCRIPTION:Ticker: BRSR\nData: 2026-02-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Bancos
+DTEND:20260211T103000Z
+DTSTART:20260211T100000Z
+SUMMARY:[BRSR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:36392e1d-c019-5a7c-8f86-8d870dfee491
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Staples
+DESCRIPTION:Ticker: PGMN\nData: 2026-03-03\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Staples
+DTEND:20260303T103000Z
+DTSTART:20260303T100000Z
+SUMMARY:[PGMN] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:11300cea-f4da-5179-9607-610d0c73258e
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Retail
+DESCRIPTION:Ticker: LREN\nData: 2026-03-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Retail
+DTEND:20260305T103000Z
+DTSTART:20260305T100000Z
+SUMMARY:[LREN] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:4d4ae018-222f-50d1-81b4-0285de7aa551
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Homebuilders
+DESCRIPTION:Ticker: MDNE\nData: 2026-03-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Homebuilders
+DTEND:20260311T103000Z
+DTSTART:20260311T100000Z
+SUMMARY:[MDNE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:ee321329-0ce7-546d-bbce-01e2f5c65523
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Staples
+DESCRIPTION:Ticker: HYPE\nData: 2026-03-12\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Staples
+DTEND:20260312T103000Z
+DTSTART:20260312T100000Z
+SUMMARY:[HYPE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:e2f6495b-b9ff-5695-badc-2c712266c326
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Industrials + Gestão de Resíduos
+DESCRIPTION:Ticker: MYPK\nData: 2026-03-06\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos
+DTEND:20260306T113000Z
+DTSTART:20260306T110000Z
+SUMMARY:[MYPK] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:58e3f321-2176-53c8-b685-62eac9d3774d
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Oil & Gas
+DESCRIPTION:Ticker: VBBR\nData: 2026-03-11\nPeríodo: 2025:A\nSetor: Oil & Gas
+DTEND:20260311T113000Z
+DTSTART:20260311T110000Z
+SUMMARY:[VBBR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:a86eb507-0b70-50a8-894a-dca2b1923992
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Industrials + Gestão de Resíduos
+DESCRIPTION:Ticker: LEVE\nData: 2026-03-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos
+DTEND:20260311T113000Z
+DTSTART:20260311T110000Z
+SUMMARY:[LEVE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:c5d5093d-5bac-5b80-9b5c-394264112b9e
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Financials Ex-Bancos
+DESCRIPTION:Ticker: IRBR\nData: 2026-02-12\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Financials Ex-Bancos
+DTEND:20260212T103000Z
+DTSTART:20260212T100000Z
+SUMMARY:[IRBR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:a8e6560c-6091-5c9b-9e28-99e6b3e502a1
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Retail
+DESCRIPTION:Ticker: SMFT\nData: 2026-03-11\nHorário/Janela: Bef-mkt\nPeríodo: 2025:A\nSetor: Retail
+DTEND:20260310T103000Z
+DTSTART:20260310T100000Z
+SUMMARY:[SMFT] - Divulgação de Resultados 4Q25 (Pré-mercado)
+UID:3c0c345b-8ebd-53d0-8006-f9d9a10ce80a
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Homebuilders
+DESCRIPTION:Ticker: HBOR\nData: 2026-03-24\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Homebuilders
+DTEND:20260324T103000Z
+DTSTART:20260324T100000Z
+SUMMARY:[HBOR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:e00f3f6d-e6dd-5c5f-a454-3b57beb288e8
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Oil & Gas
+DESCRIPTION:Ticker: PETR\nData: 2026-02-23\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Oil & Gas
+DTEND:20260223T113000Z
+DTSTART:20260223T110000Z
+SUMMARY:[PETR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:624cc4e9-ed14-5746-9ae6-52b8589e719a
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Staples
+DESCRIPTION:Ticker: VULC\nData: 2026-03-03\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Staples
+DTEND:20260303T103000Z
+DTSTART:20260303T100000Z
+SUMMARY:[VULC] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:d92321d0-1aaa-5fc6-9f70-77aa294edced
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: SAPR\nData: 2026-03-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260305T113000Z
+DTSTART:20260305T110000Z
+SUMMARY:[SAPR] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:b8e8a7d8-3c7d-5db0-8fba-d1f723e22424
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Oil & Gas
+DESCRIPTION:Ticker: PRIO\nData: 2026-03-04\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Oil & Gas
+DTEND:20260304T113000Z
+DTSTART:20260304T110000Z
+SUMMARY:[PRIO] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:f2c6432c-4360-577e-8bde-fb3bf76f7a61
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Financials Ex-Bancos
+DESCRIPTION:Ticker: BSA\nData: 2026-02-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Financials Ex-Bancos
+DTEND:20260226T103000Z
+DTSTART:20260226T100000Z
+SUMMARY:[BSA] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:d36945f3-fb27-5143-bb9b-b7faab92fd10
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bancos
+DESCRIPTION:Ticker: ROXO\nData: 2026-02-25\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Bancos
+DTEND:20260225T103000Z
+DTSTART:20260225T100000Z
+SUMMARY:[ROXO] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:20d44ac9-16be-5ece-a52b-f1ee00eeb825
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Healthcare
+DESCRIPTION:Ticker: VVEO\nData: 2026-03-02\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Healthcare
+DTEND:20260302T103000Z
+DTSTART:20260302T100000Z
+SUMMARY:[VVEO] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:6cdb1a4c-69e2-55cf-aed8-a11f7d8774ee
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: EGIE\nData: 2026-02-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260226T113000Z
+DTSTART:20260226T110000Z
+SUMMARY:[EGIE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:174a85fd-a3e2-5019-9e12-749bfe92ecb6
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Financials Ex-Bancos
+DESCRIPTION:Ticker: PAGS\nData: 2026-03-04\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Financials Ex-Bancos
+DTEND:20260304T103000Z
+DTSTART:20260304T100000Z
+SUMMARY:[PAGS] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:9891cdbb-54d0-56fa-bddb-3f99964adfad
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TMT
+DESCRIPTION:Ticker: LWSA\nData: 2026-03-03\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: TMT
+DTEND:20260303T113000Z
+DTSTART:20260303T110000Z
+SUMMARY:[LWSA] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:eefbba18-37d7-5f63-8318-6cc3b76725e8
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Metals & Mining
+DESCRIPTION:Ticker: VALE\nData: 2026-03-12\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Metals & Mining
+DTEND:20260312T113000Z
+DTSTART:20260312T110000Z
+SUMMARY:[VALE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:c877e401-43d4-53e6-aa7b-ba6c4214b581
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Industrials + Gestão de Resíduos
+DESCRIPTION:Ticker: FRAS\nData: 2026-03-19\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Industrials + Gestão de Resíduos
+DTEND:20260319T113000Z
+DTSTART:20260319T110000Z
+SUMMARY:[FRAS] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:8ab84270-261d-5619-9983-39b3b5a8d057
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Retail
+DESCRIPTION:Ticker: LJQQ\nData: 2026-03-04\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Retail
+DTEND:20260304T103000Z
+DTSTART:20260304T100000Z
+SUMMARY:[LJQQ] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:d5148915-9ab5-59d6-a4be-e61fbefc22f4
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Healthcare
+DESCRIPTION:Ticker: HAPV\nData: 2026-03-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Healthcare
+DTEND:20260326T103000Z
+DTSTART:20260326T100000Z
+SUMMARY:[HAPV] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:63b68de3-d5f3-5f49-93ec-c8f8d774879b
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Metals & Mining
+DESCRIPTION:Ticker: USIM\nData: 2026-02-23\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Metals & Mining
+DTEND:20260223T113000Z
+DTSTART:20260223T110000Z
+SUMMARY:[USIM] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:08938fa6-76c4-54aa-a646-59fc2e3ab80f
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: CMIG\nData: 2026-03-25\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260325T113000Z
+DTSTART:20260325T110000Z
+SUMMARY:[CMIG] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:7cf523ee-173b-58be-b250-de5f1b367da5
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Rentals
+DESCRIPTION:Ticker: ARML\nData: 2026-03-26\nPeríodo: 2025:Q4\nSetor: Rentals
+DTEND:20260326T113000Z
+DTSTART:20260326T110000Z
+SUMMARY:[ARML] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:da24cded-eeee-5484-9afd-e3165e014ecc
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: AURE\nData: 2026-03-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260305T113000Z
+DTSTART:20260305T110000Z
+SUMMARY:[AURE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:b6252ff8-fd9d-5073-afaa-23aadf31e32f
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Homebuilders
+DESCRIPTION:Ticker: LAVV\nData: 2026-03-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Homebuilders
+DTEND:20260311T103000Z
+DTSTART:20260311T100000Z
+SUMMARY:[LAVV] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:d09e58c8-02e9-5f01-b428-38899406cf93
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Staples
+DESCRIPTION:Ticker: GMAT\nData: 2026-03-12\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Staples
+DTEND:20260312T103000Z
+DTSTART:20260312T100000Z
+SUMMARY:[GMAT] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:4597611b-8798-55c8-9533-0282fe4dae54
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Healthcare
+DESCRIPTION:Ticker: ONCO\nData: 2026-03-30\nPeríodo: 2025:A\nSetor: Healthcare
+DTEND:20260330T103000Z
+DTSTART:20260330T100000Z
+SUMMARY:[ONCO] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:89cfcf20-23f5-5a0c-861a-9a53ec456780
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:E-commerce
+DESCRIPTION:Ticker: BHIA\nData: 2026-03-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: E-commerce
+DTEND:20260311T103000Z
+DTSTART:20260311T100000Z
+SUMMARY:[BHIA] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:8752df5c-a721-508e-90ce-bf0e94eb88be
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Properties
+DESCRIPTION:Ticker: ALOS\nData: 2026-03-10\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Properties
+DTEND:20260310T103000Z
+DTSTART:20260310T100000Z
+SUMMARY:[ALOS] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:93062368-ac61-5b9c-ad7b-878045675b50
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Retail
+DESCRIPTION:Ticker: AZZA\nData: 2026-03-11\nPeríodo: 2025:A\nSetor: Retail
+DTEND:20260311T103000Z
+DTSTART:20260311T100000Z
+SUMMARY:[AZZA] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:515be0d9-1ed1-58a0-9981-e29531130d93
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Consumo - Miguel
+DESCRIPTION:Ticker: NATU\nData: 2026-03-16\nPeríodo: 2025:A\nSetor: Consumo - Miguel
+DTEND:20260316T103000Z
+DTSTART:20260316T100000Z
+SUMMARY:[NATU] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:86dde6ab-0756-568a-995e-3750081431c6
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Oil & Gas
+DESCRIPTION:Ticker: BRKM\nData: 2026-03-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:Q4\nSetor: Oil & Gas
+DTEND:20260311T113000Z
+DTSTART:20260311T110000Z
+SUMMARY:[BRKM] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:d15f179d-3e97-50da-adc9-02c6bc41c936
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: SBSP\nData: 2026-02-26\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260226T113000Z
+DTSTART:20260226T110000Z
+SUMMARY:[SBSP] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:0b968209-98d3-596f-afe9-21b4be8edc2b
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bancos
+DESCRIPTION:Ticker: ITUB\nData: 2026-02-04\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Bancos
+DTEND:20260204T103000Z
+DTSTART:20260204T100000Z
+SUMMARY:[ITUB] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:9c95d282-5b9c-5217-b617-9bd9aaca8088
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: NEOE\nData: 2026-03-05\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260305T113000Z
+DTSTART:20260305T110000Z
+SUMMARY:[NEOE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:21dbff26-50f0-5a3e-ac1e-1820764020a4
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Retail
+DESCRIPTION:Ticker: VIVA\nData: 2026-03-18\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Retail
+DTEND:20260318T103000Z
+DTSTART:20260318T100000Z
+SUMMARY:[VIVA] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:4703f211-8885-5fae-a52b-f98e8cbc892f
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Properties
+DESCRIPTION:Ticker: IGTI\nData: 2026-02-24\nPeríodo: 2025:A\nSetor: Properties
+DTEND:20260224T103000Z
+DTSTART:20260224T100000Z
+SUMMARY:[IGTI] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:a19f9a0c-b37e-5f6b-be7d-223275e853d4
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: ISAE\nData: 2026-02-11\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260211T113000Z
+DTSTART:20260211T110000Z
+SUMMARY:[ISAE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:b788a625-c20d-5305-9eb0-0d2582b0610d
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elétricas
+DESCRIPTION:Ticker: LIGT\nData: 2026-03-19\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Elétricas
+DTEND:20260319T113000Z
+DTSTART:20260319T110000Z
+SUMMARY:[LIGT] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:ff8f0257-a0bb-54e3-83f6-e03215c23fbf
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Pulp & Paper
+DESCRIPTION:Ticker: KLBN\nData: 2026-02-10\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Pulp & Paper
+DTEND:20260210T113000Z
+DTSTART:20260210T110000Z
+SUMMARY:[KLBN] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:eaa9de6c-fe74-5abe-a96a-b70d571fec47
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Homebuilders
+DESCRIPTION:Ticker: CYRE\nData: 2026-03-19\nHorário/Janela: Aft-mkt\nPeríodo: 2025:A\nSetor: Homebuilders
+DTEND:20260319T103000Z
+DTSTART:20260319T100000Z
+SUMMARY:[CYRE] - Divulgação de Resultados 4Q25 (Pós-mercado)
+UID:0e13237a-50a1-5a9f-9118-dcb1cffbde34
 END:VEVENT
 END:VCALENDAR
